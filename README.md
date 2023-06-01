@@ -5,11 +5,10 @@
 
 - 💬 Ask me about **Spring Boot, React.js**
 
-- 📫 How to reach me **tarantuldeveloper@gmail.com; +996 509 09 16 25**
+- 📫 How to reach me **tarantuldeveloper@gmail.com +996 509 09 16 25**
 
 - ⚡ Fun fact **I'm a comedian at heart**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
