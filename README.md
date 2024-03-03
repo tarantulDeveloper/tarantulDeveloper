@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bekzhan Satiev</h1>
-<h3 align="center">A cool backend (advanced level, Java Spring Boot) developer. Also familiar with React.js (intermediate).</h3>
+<h3 align="center">Backend (Java Spring Boot) developer. Also familiar with React.js, Vue.js (intermediate).</h3>
 
 - 🌱 I’m currently learning **at Kyrgyz-German Institute of Applied Informatics**
 
-- 💬 Ask me about **Spring Boot, React.js**
+- 💬 Ask me about **Spring Boot**
 
 - 📫 How to reach me **tarantuldeveloper@gmail.com +996 509 09 16 25**
 
