@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Spring Boot**
 
-- 📫 How to reach me **tarantuldeveloper@gmail.com +996 509 09 16 25**
+- 📫 How to reach me **beksdeveloper@gmail.com +996 509 09 16 25**
 
 - ⚡ Fun fact **I'm a comedian at heart**
 
